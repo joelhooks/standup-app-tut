@@ -8,6 +8,9 @@
           null,
           1,
           null,
+          null,
+          1,
+          null,
           null
         ]
       },
@@ -31,12 +34,6 @@
           null
         ]
       },
-      "/Users/joel/Code/standup_app/app/controllers/application_controller.rb": {
-        "lines": [
-          1,
-          null
-        ]
-      },
       "/Users/joel/Code/standup_app/app/controllers/activity_controller.rb": {
         "lines": [
           1,
@@ -45,6 +42,31 @@
           null,
           1,
           null,
+          null
+        ]
+      },
+      "/Users/joel/Code/standup_app/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          2,
+          0,
+          null,
+          2,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/joel/Code/standup_app/app/models/account.rb": {
+        "lines": [
+          1,
+          1,
+          1,
           null
         ]
       },
@@ -71,6 +93,34 @@
         "branches": {
         }
       },
+      "/Users/joel/Code/standup_app/app/controllers/accounts_controller.rb": {
+        "lines": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          null,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "branches": {
+        }
+      },
       "/Users/joel/Code/standup_app/app/channels/application_cable/connection.rb": {
         "lines": [
           0,
@@ -92,6 +142,6 @@
         }
       }
     },
-    "timestamp": 1589936351
+    "timestamp": 1590015579
   }
 }
